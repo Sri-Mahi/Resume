@@ -1,0 +1,9 @@
+body{
+    padding: 20px;
+}
+.black{
+    font-style: bold;
+}
+h1, h2, h3{
+    color: rgb(177, 46, 177);
+}
